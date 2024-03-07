@@ -6,6 +6,7 @@ This repository provides insight to some hands-on computer vision tasks, I mostl
 
 
 ## Computer Vision
-| Models                                                                                                                                 | Framework    | Metrics       | GPU | Multi-Node | Dataset | Task | 
-| ------- | ------------ | -------------- |--- | ----------- | --------- |----- |
+| File Name  |Task  | Framework    | Metrics       | GPU |  Dataset | Models | 
+| ----- | ------------ | ------------- |---- | ---------- | ------- |------- |
+| CIFAR10 image classification with vgg | Image classification | tf.keras | Accuracy | Tesla T4 | CIFA10 | vgg16
 
