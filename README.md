@@ -8,5 +8,7 @@ This repository provides insight to some hands-on computer vision tasks, I mostl
 ## Computer Vision
 | File Name  |Task  | Framework    | Metrics       | GPU |  Dataset | Models | 
 | ----- | ------------ | ------------- |---- | ---------- | ------- |------- |
-| CIFAR10 image classification with vgg | Image classification | tf.keras | Accuracy | Tesla T4 | CIFA10 | vgg16
+| CIFAR10 image classification with vgg | Image classification | tf.keras | Accuracy | Tesla T4 | CIFA10 | vgg16 |
+| Image Classifiacation with ResNet transfer learning | Image classification | tensorflow | Accuracy |Tesla T4 | fruit360 | imageNet |
+
 
